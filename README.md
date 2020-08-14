@@ -1,6 +1,6 @@
 # safegoldapp
 
-A Banit Safegold Product
+A Bankit Safegold Product
 
 ## Getting Started
 
